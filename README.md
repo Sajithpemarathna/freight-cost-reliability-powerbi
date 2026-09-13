@@ -10,7 +10,7 @@ delivery?
 
 Four pages, each answering one question.
 
-**[Watch the walkthrough](PASTE_YOUR_DRIVE_LINK_HERE)** ·
+**[Watch the walkthrough](https://drive.google.com/file/d/1nnocS0NYqQ7si1tNtoc1A_ZzLU7SWCzr/view?usp=sharing)** ·
 [Full dashboard as PDF](docs/air-freight-premium-dashboard.pdf)
 
 ---
